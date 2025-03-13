@@ -15,7 +15,7 @@ export default function Home() {
         </ul>
       </nav>
       <div className="flex justify-center my-[24vh]">
-        <h1 className="text-6xl sm:text-4xl">Welcome to my nextjs website</h1>
+        <h1 className="text-6xl sm:text-4xl">Welcome to my first website</h1>
       </div>
     </div>
   );
