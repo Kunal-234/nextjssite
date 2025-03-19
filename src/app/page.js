@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -9,7 +8,7 @@ export default function Home() {
         </div>
         <ul className="flex justify-end gap-22">
           <li>Home</li>
-          <li>About</li>
+          <li>About me</li>
           <li>Services</li>
           <li>Contact</li>
         </ul>
