@@ -6,7 +6,7 @@ export default function Home() {
         <div>
           <h2 className="text-2xl"> Demo Website</h2>
         </div>
-        <ul className="flex justify-end gap-22">
+        <ul className="flex justify-end sm:justify-start sm:gap-3 gap-22">
           <li>Home</li>
           <li>About me</li>
           <li>Services</li>
