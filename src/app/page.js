@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      <nav className="flex justify-between w-screen  sm:m-0 sm:p-0 sm:gap-0 gap-22 mx-9 px-9 m-3 p-1 ">
+      <nav className="flex justify-between   sm:m-0 sm:p-0 sm:gap-0 gap-22 mx-9 px-9 m-3 p-1 ">
         <div>
           <h2 className="text-2xl"> Demo Website</h2>
         </div>
