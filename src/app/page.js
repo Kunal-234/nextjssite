@@ -7,7 +7,7 @@ export default function Home() {
           <h2 className="text-2xl"> Demo Website</h2>
         </div>
         <ul className="flex justify-end sm:justify-between sm:gap-0 gap-22">
-          <li>Home</li>
+          <li></li>
           <li>About us</li>
           <li>Services</li>
           <li>Contact</li>
