@@ -8,7 +8,7 @@ export default function Home() {
         </div>
         <ul className="flex justify-end sm:justify-between sm:gap-0 gap-22">
           <li>Home</li>
-          <li>About </li>
+          <li>About  </li>
           <li>Services</li>
           <li>Contact</li>
         </ul>
